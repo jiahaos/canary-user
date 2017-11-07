@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/biz-acl/biz-acl.iml" filepath="$PROJECT_DIR$/biz-acl/biz-acl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canary-user.iml" filepath="$PROJECT_DIR$/canary-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-acl/core-acl.iml" filepath="$PROJECT_DIR$/core-acl/core-acl.iml" />
+    </modules>
+  </component>
+</project>
