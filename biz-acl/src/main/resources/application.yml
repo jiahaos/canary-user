@@ -1,0 +1,15 @@
+spring:
+#  profiles:
+#    active: dev
+  application:
+    name: biz-acl
+  http:
+    encoding:
+      charset: UTF-8
+server:
+  port: 11001
+#注册到eureka中心，获取到配置服务
+eureka:
+  client:
+    service-url:
+      defaultZone: http://user:123@localhost:8761/eureka/
